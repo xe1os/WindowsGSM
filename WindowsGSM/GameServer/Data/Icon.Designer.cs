@@ -133,11 +133,11 @@ namespace WindowsGSM.GameServer.Data {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Images/Games/csgo.png.
+        ///   Looks up a localized string similar to Images/Games/cs2.png.
         /// </summary>
-        public static string Counter_Strike__Global_Offensive_Dedicated_Server {
+        public static string Counter_Strike__2_Dedicated_Server {
             get {
-                return ResourceManager.GetString("Counter-Strike: Global Offensive Dedicated Server", resourceCulture);
+                return ResourceManager.GetString("Counter-Strike: 2 Dedicated Server", resourceCulture);
             }
         }
         

@@ -21,7 +21,7 @@ WindowsGSM is a powerful tool to manage game servers. Equipped with a GUI for se
 | ![logo](WindowsGSM/Images/Games/ce.png?raw=true)     | Conan Exiles Dedicated Server                     |✅| A2S  |
 | ![logo](WindowsGSM/Images/Games/cs.png?raw=true)     | Counter-Strike: 1.6 Dedicated Server              |✅| A2S  |
 | ![logo](WindowsGSM/Images/Games/cscz.png?raw=true)   | Counter-Strike: Condition Zero Dedicated Server   |✅| A2S  |
-| ![logo](WindowsGSM/Images/Games/csgo.png?raw=true)   | Counter-Strike: Global Offensive Dedicated Server |✅| A2S  |
+| ![logo](WindowsGSM/Images/Games/cs2.png?raw=true)   | Counter-Strike: 2 Dedicated Server                 |✅| A2S  |
 | ![logo](WindowsGSM/Images/Games/css.png?raw=true)    | Counter-Strike: Source Dedicated Server           |✅| A2S  |
 | ![logo](WindowsGSM/Images/Games/dod.png?raw=true)    | Day of Defeat Dedicated Server                    |✅| A2S  |
 | ![logo](WindowsGSM/Images/Games/dods.png?raw=true)   | Day of Defeat: Source Dedicated Server            |✅| A2S  |

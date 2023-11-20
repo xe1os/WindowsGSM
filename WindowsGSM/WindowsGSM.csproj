@@ -387,6 +387,7 @@
     <Compile Include="GameServer\DOD.cs" />
     <Compile Include="GameServer\DODS.cs" />
     <Compile Include="GameServer\EGS.cs" />
+    <Compile Include="GameServer\Engine\Source2.cs" />
     <Compile Include="GameServer\Engine\SteamCMDAgent.cs" />
     <Compile Include="GameServer\Engine\Unity.cs" />
     <Compile Include="GameServer\Engine\UnrealEngine.cs" />
@@ -453,7 +454,7 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>Icon.resx</DependentUpon>
     </Compile>
-    <Compile Include="GameServer\CSGO.cs" />
+    <Compile Include="GameServer\CS2.cs" />
     <Compile Include="GameServer\TF2.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Functions\ServerTable.cs" />
@@ -501,7 +502,7 @@
     <Resource Include="Images\SteamCMD.png" />
   </ItemGroup>
   <ItemGroup>
-    <Resource Include="Images\Games\csgo.png" />
+    <Resource Include="Images\Games\cs2.png" />
     <Resource Include="Images\Games\tf2.png" />
   </ItemGroup>
   <ItemGroup>
